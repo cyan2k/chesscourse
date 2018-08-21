@@ -1,0 +1,133 @@
+
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.12"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "374"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "28"]
+[EventDate "2018.??.??"]
+
+{[%evp 11,27,14,14,-21,244,-239,72,-1108,-1108,-1506,-1459,-1700,-1568,-1763,
+-1530,-1821,-1821,-29999]} 1. d4 d5 2. c4 Nf6 3. Nc3 e6 4. Nf3 Bb4 5. e3 O-O 6.
+cxd5 exd5 {[%cal Be6d5,Bd5c4][%mdl 32] LiveBook: 9 Games} 7. Ne5 Bg4 $2 {
+[%mdl 8192] [#]} (7... c5 $11 {and Black is okay.}) 8. Nxf7 $4 {[%mdl 8192]} (
+8. Nxg4 $18 {is the narrow road to win.} Ne4 9. Bd2 Nxd2 10. Qxd2) 8... Bxd1 $2
+(8... Rxf7 $19 9. Be2 Bxe2 10. Qxe2 c5 11. dxc5 Nc6) 9. Bd2 $2 {[%mdl 8192]} (
+9. Nxd8 $16 Rxd8 10. Kxd1) 9... Rxf7 $19 10. Bc4 dxc4 11. d5 Bg4 12. a4 Nh5 13.
+h3 Qh4 {[%csl Gf7][%cal Rh4f2] [#]} 14. Kf1 Qxf2# 0-1
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.13"]
+[Round "?"]
+[White "cyan"]
+[Black "Irina 0.15"]
+[Result "1-0"]
+[ECO "B43"]
+[WhiteElo "35"]
+[BlackElo "374"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,46,37,50,-187,63,35,141,69,94,76,1152,1152,1361,1278,1679,1686,1667,
+1670,1964,1964,29920,1553,29920,29991,2038,2039,7364,2281,29996,29997,29997,
+29998,29998,2466,29998,29999,29998,29999,29999]} 1. e4 c5 2. Nf3 e6 3. d4 cxd4
+4. Nxd4 a6 5. Nc3 Nc6 {LiveBook: 5126 Games} 6. Bd3 $2 (6. Nxc6 $14 {stays
+ahead.} bxc6 7. Bd3) 6... e5 $2 (6... Nxd4 $19 7. O-O Nc6) 7. Nf3 Nb4 (7... Nf6
+$14) 8. O-O ({White should try} 8. Nxe5 $16 {aiming for Bd3-c4.} d6 9. Nc4)
+8... Nxd3 9. Qxd3 Qh4 $2 {[%mdl 8192]} (9... d6 $16) 10. Nxh4 $18 Bc5 11. Nd5
+Nh6 12. Nc7+ Kd8 13. Nxa8 Bxf2+ 14. Rxf2 Ng4 {[#]} 15. Bg5+ (15. Qd6 $142 $1
+Nh6 16. Bg5+ f6 {[#]} 17. Bxf6+ $1 {[%mdl 512]} gxf6 18. Qxf6+ Ke8 19. Nc7#)
+15... Nf6 16. Bxf6+ gxf6 17. Rxf6 {Intending Qd3-d6 and mate.} Ke8 18. Qc4 {
+White wants to mate with Nh4-f5.} d5 19. Qxc8+ Ke7 20. Qxh8 b5 {[#]} 21. Qxh7
+$1 d4 22. Qxf7+ {White mates.} Kd8 23. Rg6 {[%cal Rg6g8]} a5 24. Rg8# 1-0
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.17"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "0-1"]
+[ECO "D06"]
+[WhiteElo "374"]
+[BlackElo "70"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "42"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,41,57,97,-47,59,-754,-86,-94,-94,-1015,-460,-987,-987,-1684,-1684,
+-1645,-1556,-2259,-1775,-29998,-1744,-29997,-29997,-29998,-29997,-29997,-29997,
+-29997,-29999,-29998,-29999,-29999,-29999,-29999]} 1. d4 d5 2. c4 Nf6 3. cxd5
+Nxd5 4. e4 Nf6 5. Nc3 Nc6 {[%cal Bb8c6,Bc6d4,Bd4c2,Bc2a1][%mdl 32]} 6. a4 (6.
+d5 $16 {Strongly threatening Qd1-a4.} Nb8 7. e5) 6... Bg4 ({Black should try} 
+6... Qxd4 $15 7. Qc2 (7. Qxd4 Nxd4) 7... Nb4) 7. Qb3 $2 {[%mdl 8192]} (7. f3
+$14 Bd7 8. e5) 7... e5 $2 (7... Nxd4 $19 {and Black stays clearly on top.} 8.
+Bc4 (8. Qxb7 Nc2#) (8. Bb5+ c6 9. Bc4 Nxb3 10. Bxb3) 8... Nxb3 9. Bxb3 e5) 8.
+Qxb7 $17 {Black is better.} Nxd4 {[%cal Rd4c2] [#]} 9. Qc6+ $2 {[%mdl 8192]} (
+9. Bb5+ $17 Nd7 10. h3) 9... Bd7 (9... Nxc6 $142 10. Bb5 Qd6) 10. Qxd7+ (10.
+Qc4 $142 Nc2+ 11. Ke2 Nxa1 12. Nf3) 10... Qxd7 $19 11. b3 Nc2+ 12. Ke2 Nxa1 13.
+Nb5 O-O-O {( -> ...Qd7-d3+)} 14. Nxc7 Qxc7 (14... Qd1+ $142 15. Ke3 Ng4#) 15.
+h3 Qxc1 {Black mates.} 16. f4 Qd2+ 17. Kf3 {[#]} Rd3+ $1 18. Bxd3 Qxd3+ 19. Kf2
+Bc5+ 20. Ke1 Rd8 {[%csl Gd8][%cal Rd3d1]} 21. a5 Qd1# {Accuracy: White = 5%,
+Black = 7%.} (21... Nc2# $142) 0-1
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.21"]
+[Round "?"]
+[White "cyan"]
+[Black "Irina 0.15"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "104"]
+[BlackElo "482"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "47"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,46,7,67,36,89,95,744,744,860,861,1054,1030,1442,1432,1405,1208,1634,
+1277,29992,1678,29920,29921,29996,1971,29996,2717,29920,29992,29992,29921,
+29994,29994,2717,2117,2016,1633,29994,2251,29999]} 1. e4 c5 2. Nc3 e6 3. f4 d5
+4. Nf3 dxe4 5. Nxe4 Qd7 (5... Nf6 $11 6. Nxf6+ Qxf6) 6. a4 {[%cal Ba2a4,Ba4b5]
+[%mdl 32]} a5 7. Bb5 Qxb5 $4 {[%mdl 8192] [#]} (7... Nc6 $16) 8. axb5 $18 {
+White is clearly winning.} f6 9. d4 g5 10. fxg5 Ke7 11. gxf6+ Nxf6 12. Bg5 cxd4
+13. Nxd4 a4 14. Qf3 (14. Bxf6+ $142 Kf7 15. Qh5+ Kg8 16. Ng5 Bb4+ 17. Kd1 h6
+18. Qf7#) 14... e5 15. Qxf6+ Ke8 16. Qxh8 (16. Qxe5+ $142 Kf7 17. Rf1+ Kg8 18.
+Qd5+ Be6 19. Qxe6+ Kg7 20. Bh6#) 16... exd4 17. Nf6+ (17. Rf1 $142 Bf5 18. Rxf5
+b6 19. Rxf8+ Kd7 20. Qxh7+ Ke6 21. Qf5#) 17... Kf7 18. Qg8+ Ke7 19. Nd5+ Kd7
+20. Qf7+ Kd6 21. Bf4+ Kc5 22. b4+ Kxb5 {[#]} 23. Qxf8 (23. c4+ $142 $1 Kxc4 24.
+Nb6+ Kb5 25. Qc4+ Kxb6 26. Bc7+ Ka7 27. Qxd4+ Bc5 28. Qxc5+ Ka6 29. Rxa4#)
+23... Ra6 24. Qc5# 1-0
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.21"]
+[Round "?"]
+[White "cyan"]
+[Black "Irina 0.15"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "139"]
+[BlackElo "590"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "33"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,32,-43,521,146,832,813,1029,944,944,671,1015,992,2252,1712,2127,2070,
+2064,2064,29996,29997,29999,29998,29998,29999,29999]} 1. e4 c5 2. Nc3 e5 3. Nf3
+d6 4. Bc4 Bh3 5. Ng5 Bxg2 $2 {[%mdl 8192]} (5... Qxg5 $15 {stays ahead.} 6.
+gxh3 Qg2) 6. Nxf7 $2 (6. Bxf7+ $18 {has better winning chances.} Kd7 7. Qg4+
+Kc6 8. Bd5+ Kb6 9. Qxg2) 6... Bf3 $2 {[%mdl 8192]} (6... Qh4 $16) 7. Qxf3 $18
+Qa5 8. Nxh8 {[#] White wants to mate with Qf3-f7+.White is clearly winning.}
+Nf6 9. d3 {[%cal Bd2d3,Bd3c4][%mdl 32]} h5 10. Bg5 Qa6 11. Bxf6 Qxc4 12. dxc4 {
+[#] White threatens Qf3-f5 and mate.} gxf6 13. Qxf6 {Nc3-d5 would kill now.} h4
+14. Nd5 {White mates.} Be7 15. Qf7+ Kd7 16. Qxe7+ Kc8 17. Qc7# 1-0
+
