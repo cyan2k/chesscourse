@@ -131,3 +131,56 @@ Nf6 9. d3 {[%cal Bd2d3,Bd3c4][%mdl 32]} h5 10. Bg5 Qa6 11. Bxf6 Qxc4 12. dxc4 {
 [#] White threatens Qf3-f5 and mate.} gxf6 13. Qxf6 {Nc3-d5 would kill now.} h4
 14. Nd5 {White mates.} Be7 15. Qf7+ Kd7 16. Qxe7+ Kc8 17. Qc7# 1-0
 
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.21"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "0-1"]
+[ECO "A46"]
+[WhiteElo "590"]
+[BlackElo "175"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "46"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,45,-21,4,-197,-193,-261,-224,-271,-242,-354,-312,-456,-429,-524,-394,
+-394,-346,-415,-411,-461,-462,-1037,-1037,-968,-739,-739,-671,-899,-816,-2050,
+-1985,-2885,-2258,-2506,-1861,-2550,-2379,-29999]} 1. Nf3 d6 {[%cal Bd7d6,
+Bd6e5][%mdl 32]} 2. d4 Nf6 3. g3 Nbd7 4. a3 e5 5. d5 a6 6. Nxe5 $2 {[#]} (6.
+Bg2 $11 {and White stays safe.}) 6... dxe5 $19 7. b4 (7. c4 $142) 7... Bd6 8.
+Bh3 {Black is clearly better.} O-O {aiming for ...a6-a5.} 9. Bxd7 (9. c4 $142)
+9... Bxd7 10. b5 (10. O-O $142) 10... Bxb5 11. Rf1 Ba4 12. Nc3 Qd7 13. Nxa4
+Qxa4 14. Bg5 Ne4 15. Rb1 (15. Bd2 $142) 15... Nc3 16. Qc1 Nxb1 17. Qxb1 b5 18.
+e3 Qxa3 19. Qxb5 axb5 20. Bh4 Qb4+ 21. Ke2 Ra2 {[#] ( -> ...Qb4-g4+)} 22. Bd8
+Rxc2+ 23. Kd3 Qc4# {Accuracy: White =  4%, Black = 24%.} 0-1
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.21"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "0-1"]
+[ECO "A21"]
+[WhiteElo "698"]
+[BlackElo "211"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "48"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,47,-14,-14,-27,16,-42,-35,-317,-317,-918,-918,-960,-960,-1960,-711,
+-29998,-1296,-29997,-2587,-2587,-1781,-29992,-2670,-29995,-3164,-29996,-3030,
+-29997,-29921,-3090,-3122,-29998,-29921,-29997,-29996,-29998,-29921,-29996,
+-29999,-29999]} 1. c4 e5 2. Nc3 d6 3. g3 f5 4. Nd5 Nf6 5. Nxf6+ Qxf6 6. b3 e4
+7. Ba3 ({White should try} 7. Rb1 $11) 7... Be7 8. Bxd6 $2 {[%mdl 8192]} (8.
+Bb4 $15) 8... Bxd6 $19 9. g4 $2 (9. e3) 9... fxg4 10. Bg2 O-O {[%csl Gf8][%cal
+Rf6f2] [#]} 11. d4 exd3 12. a4 dxe2 (12... Bb4+ $142 13. Kf1 (13. Qd2 Qxa1#)
+13... Qxf2#) 13. Qxd6 Qxa1+ (13... Qxf2+ $142 14. Kd2 e1=Q+ 15. Kd3 Qee3#) 14.
+Kxe2 cxd6 15. Bxb7 Bxb7 (15... Re8+ $142 16. Kd3 Bf5+ 17. Be4 Rxe4 18. Ne2 Qb2
+19. Ng3 Rd4+ 20. Ke3 Qd2#) 16. Nh3 Qxh1 (16... Qb2+ $142 17. Kf1 Bf3 18. Ng5
+Qc1#) 17. Ng1 Qxg1 18. Kd3 Nc6 19. f4 Rxf4 {[#] ( -> ...Rf4-f3+)} 20. Kc2 Rf3 {
+Black mates.} 21. Kb2 Qxh2+ 22. Ka3 Re8 23. c5 Re2 {[%csl Gh2][%cal Re2a2]} 24.
+cxd6 Ra2# {Accuracy: White =  0%, Black = 48%.} (24... Qxd6# $142) 0-1
+
