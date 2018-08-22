@@ -184,3 +184,26 @@ Qc1#) 17. Ng1 Qxg1 18. Kd3 Nc6 19. f4 Rxf4 {[#] ( -> ...Rf4-f3+)} 20. Kc2 Rf3 {
 Black mates.} 21. Kb2 Qxh2+ 22. Ka3 Re8 23. c5 Re2 {[%csl Gh2][%cal Re2a2]} 24.
 cxd6 Ra2# {Accuracy: White =  0%, Black = 48%.} (24... Qxd6# $142) 0-1
 
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.22"]
+[Round "?"]
+[White "cyan"]
+[Black "Irina 0.15"]
+[Result "1-0"]
+[ECO "A08"]
+[WhiteElo "247"]
+[BlackElo "698"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "39"]
+[EventDate "2018.??.??"]
+
+{[%evp 14,38,-5,-14,212,197,225,230,234,180,1217,1218,1424,1310,1303,1144,1646,
+1397,1347,1013,29997,1785,2000,1639,29998,29999,29999]} 1. e4 e6 2. d3 d5 3.
+Nd2 c5 4. Ngf3 Nc6 5. g3 Bd6 6. Bg2 Nge7 7. O-O O-O 8. Re1 {LiveBook: 449 Games
+} Bxg3 $2 {[#]} (8... h6 $11 {and Black stays safe.}) 9. fxg3 dxe4 10. Nxe4 b6
+{White is clearly better.} 11. Bg5 Qxd3 $2 (11... f6 12. Bd2 e5) 12. Qxd3 $18
+a6 13. Qd6 f6 14. Bf4 Na7 15. Bh3 e5 16. Bd2 {Hoping for Bh3-e6+.} Rd8 17. Qxe7
+(17. Qxd8+ $142 Kf7 18. Nd6+ Kg6 19. Qe8#) 17... Bxh3 {[#]} 18. Bh6 $1 gxh6 19.
+Nxf6+ Kh8 20. Qxh7# 1-0
+
