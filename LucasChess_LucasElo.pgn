@@ -289,3 +289,158 @@ Kxd6 17. Qxc8 (17. Bf4+ $142 Ke7 18. Qg7+ Ke8 19. Qf7+ Kd8 20. Qf8#) 17... b5
 Qxc5+ d6 21. Qc7+ Ke8 22. Rxd6 {[%csl Gg5][%cal Rc7f7]} Nd7 23. Qxd7+ Kf8 24.
 Rf6+ Kg8 25. Qf7+ Kh8 1-0
 
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.26"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "1-0"]
+[ECO "A22"]
+[WhiteElo "806"]
+[BlackElo "391"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "13"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,13,119,424,424,514,462]} 1. c4 d6 2. Nc3 Nf6 3. g3 e5 4. Bg2 Be6 5.
+Bxb7 Nc6 $2 {[%mdl 8192] [#]} (5... Nbd7 $16) 6. Bxc6+ $18 Ke7 7. Bxa8 1-0
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.26"]
+[Round "?"]
+[White "cyan"]
+[Black "Irina 0.15"]
+[Result "0-1"]
+[ECO "C55"]
+[WhiteElo "388"]
+[BlackElo "806"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "48"]
+[EventDate "2018.??.??"]
+
+{[%evp 10,48,25,-4,67,-66,241,1,233,233,233,196,288,42,51,-17,18,-244,-244,
+-366,-366,-496,29998,-694,-694,-934,-760,-1145,29993,29994,29996,278,262,-177,
+-177,-286,-281,-345,-345,-373,-297]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 Nf6
+5. d3 O-O 6. Bg5 {LiveBook: 3 Games} Nxe4 (6... d6 $11) 7. dxe4 (7. Bxe7 $1 $14
+Nxc3 8. Bxd8 Nxd1 9. Bxc7 Nxb2 10. Bb3 (10. Nxe5 Nxe5 11. Bb3 b5 $17)) 7... Nb4
+$2 {[%mdl 8192]} (7... Bxg5 $15 {stays ahead.} 8. Nxg5 Qxg5) 8. Nxe5 $2 (8.
+Bxe7 $18 Qxe7 9. a3) 8... Nxc2+ $2 (8... Bxg5 $11 9. a3 Nc6) 9. Qxc2 $18 Bxg5
+10. h4 Bxh4 (10... Bf6 $142) 11. Rxh4 $2 (11. Qd1 $18 d5 12. Nxd5) 11... Qxh4
+$14 12. Qb3 (12. Nf3 $14 Qh1+ 13. Bf1) 12... Qh1+ 13. Kd2 $2 {[%mdl 8192]} (13.
+Bf1 $11 {and White has nothing to worry.}) 13... Qxa1 $19 14. Bxf7+ (14. Nd5
+$142 d6 15. Ne7+ Kh8 16. Nxf7+ Rxf7 17. Bxf7) 14... Kh8 {Hoping for ...Qa1-h1.}
+15. Nd5 {White threatens Ne5-g6+! and mate.} Qf1 $4 {[%mdl 8192] [#]} (15... d6
+$19 16. Nxc7 dxe5 17. Nxa8 Qf1) 16. Ne7 $4 {[%mdl 8192]} (16. Ng6+ $1 {[%mdl
+512] was the only winning move.} hxg6 17. Qh3#) 16... Qxf2+ 17. Kd1 {Intending
+Ne7-g6+! and mate.} Qf1+ 18. Kd2 Qc1+ $4 {[%mdl 8192]} (18... Qf4+ $19 19. Ke2
+Qxe5 20. Ng6+ hxg6 21. Qh3+ Qh5+ $1 {[%mdl 512]} 22. Qxh5+ gxh5 23. Bxh5 d6)
+19. Kxc1 d6 {[#]} 20. Ng4 $2 (20. N5g6+ $1 {mates} hxg6 21. Qd1 Rxf7 22. Qh1+
+Bh3 23. Qxh3#) 20... Bxg4 $18 21. Qg3 $4 {[%mdl 8192]} (21. Qxb7 $18 {and life
+is good for White. Bf7-c4 is the strong threat.} Rad8 22. Nc6) 21... Rxf7 $19 {
+[#]} 22. Qxg4 (22. Ng6+ $1 {[%mdl 512] is a better defense.} hxg6 23. Qxg4)
+22... Rxe7 23. Qh4 Rae8 24. g4 Kg8 {Accuracy: White =  0%, Black = 15%.} 0-1
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.26"]
+[Round "?"]
+[White "Irina 0.15"]
+[Black "cyan"]
+[Result "0-1"]
+[ECO "B07"]
+[WhiteElo "806"]
+[BlackElo "385"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "126"]
+[EventDate "2018.??.??"]
+
+{[%evp 9,125,-13,0,-3,11,-15,-11,-35,-12,-11,-14,-947,-17,-23,-20,-20,-28,-93,
+-93,-142,-142,-678,-662,-662,-445,-944,-414,-414,-414,-414,-397,-478,-394,-658,
+-509,-503,-424,-523,-474,-560,-532,-532,43,50,87,0,93,93,348,-28,-28,-28,-28,
+-41,207,22,264,79,149,-264,76,76,84,51,51,51,51,29,29,29,47,25,175,175,219,147,
+250,174,283,257,284,273,257,257,252,252,287,-126,-126,-128,227,104,186,185,360,
+157,378,289,289,5,29998,-473,-473,-461,-461,-451,-314,-29994,-29995,-29995,
+-29995,-29996,-29997,-29997,-29998,-29998,-29999,-29999]} 1. e4 d6 2. d4 Nf6 3.
+Bd3 e5 4. c3 Nc6 5. dxe5 dxe5 6. Nf3 Bd6 7. Bg5 Qe7 8. Bb5 {The position is
+equal.} a6 9. Bxc6+ bxc6 10. Qd4 $2 {[%mdl 8192]} (10. O-O $11) 10... c5 $2 (
+10... exd4 $19 11. O-O dxc3 12. Nxc3 h6) 11. Qd1 O-O 12. c4 h6 13. Bh4 (13.
+Bxf6 $1 $11 {keeps the balance.} Qxf6 14. Nc3) 13... g5 $17 14. Bg3 Nxe4 {
+Hoping for ...f7-f5.} 15. Nxe5 $2 {[%mdl 8192]} (15. Nfd2 $17 Nxd2 16. Nxd2)
+15... Bxe5 16. Bxe5 Qxe5 17. Qd5 (17. Qe2 $142) 17... Qxd5 (17... Qxb2 $142 18.
+O-O Bb7) 18. cxd5 $19 Rd8 19. f3 Nf6 20. b3 Rxd5 21. g3 $2 (21. Nc3 Rd3 22. Rc1
+) 21... Re5+ 22. Kf2 Rb8 23. h3 a5 24. f4 gxf4 25. gxf4 Rb4 $2 (25... Rf5 $19
+26. Nc3 c4) 26. fxe5 $14 Ne4+ 27. Kg1 (27. Ke3 $16) 27... Ng3 (27... Bb7 $11)
+28. Rh2 $16 Rd4 $2 {[%mdl 8192]} (28... Ne4 $16 {was called for.}) 29. h4 $2 (
+29. Rg2 $1 $18) 29... Rd1+ $11 30. Kf2 Ne4+ 31. Ke3 Rd4 $2 {[#]} (31... Bf5 $15
+{stays ahead.}) 32. h5 $2 (32. Rc2 $1 $18) 32... Be6 $2 {[#]} (32... Ba6 $11 {
+and Black is okay.}) 33. Nd2 $2 (33. Rh4 $1 $18 {and the rest is easy.}) 33...
+Ng5 (33... Nc3 $142) 34. Nf3 $2 {[%mdl 8192]} (34. Rc1 $16 {and life is bright.
+}) 34... Nxf3 $2 (34... Re4+ $19 35. Kf2 Rf4) 35. Kxf3 $19 {[%mdl 4096]
+Endgame KRR-KRB} Rd3+ 36. Ke2 Rd5 37. Rg1+ Kf8 38. Rgh1 Rxe5+ 39. Kd3 Rd5+ 40.
+Kc4 Rd8+ (40... Rg5+ $11 41. Kc3 Rg3+ 42. Kb2 c4) 41. Kxc5 $18 Rb8 42. Rb2 f5 (
+42... Bd7 $16 {was worth a try.} 43. Rc2 Rb5+ 44. Kd4 a4 45. bxa4 (45. Rxc7 Be6
+$16) 45... Ra5) 43. Rbh2 Ra8 (43... Ke7 $142 44. Rd2 Rb6) 44. Rg2 a4 45. Rg6
+Kf7 46. Rxh6 axb3 47. axb3 Bxb3 48. Rh4 $2 (48. Rg1 $18) 48... Ra5+ $17 {
+[%mdl 1024] Black has strong compensation.} 49. Kd4 {aiming for Rh4-h2.} c6 $2
+{[%mdl 8192]} (49... Ra4+ $17 {keeps the pressure on.} 50. Kc3 Rxh4 51. Kxb3 c5
+) 50. Rf4 (50. Rh2 $18 {and White stays clearly on top.}) 50... c5+ (50... Bd1
+$16 51. Rf1 (51. Rxc6 Ra4+ 52. Ke5 Rxf4 $11) 51... Kg7 52. Rg6+ (52. Rxc6 Bxh5
+53. Re1 Ra7 $16) 52... Kf7) 51. Ke5 $18 Ke7 $2 (51... Kg7 52. Rd6 c4+ 53. Kd4
+Kh7) 52. Kxf5 (52. Rh7+ $18 {has better winning chances.} Kf8 53. Rxf5+ Kg8 54.
+Rc7) 52... Kd7 $2 (52... c4+ $16 {is a better defense.} 53. Kg4 c3) 53. Rf3 c4+
+54. Kg4 $2 (54. Kg6 $18) 54... Kc7 $2 {[%mdl 8192]} (54... Bd1 $11) 55. Rxb3 $4
+{[%mdl 8192]} (55. Rf7+ Kd8 56. Rh8#) 55... cxb3 $19 {KR-KR} 56. Re6 b2 57.
+Re7+ Kc6 58. Rc7+ $2 (58. Re6+ $19 Kc5 59. Re1) 58... Kxc7 {Black mates.} 59.
+Kf4 b1=Q 60. Kf3 Qb4 61. Kf2 Ra3 62. Kg1 Qb2 {[%cal Ra3a1]} 63. Kh1 Ra1# {
+Accuracy: White = 14%, Black = 17%.} 0-1
+
+[Event "Lucas Chess"]
+[Site "?"]
+[Date "2018.08.26"]
+[Round "?"]
+[White "cyan"]
+[Black "Bikjump 2.01 (32-bit)"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "421"]
+[BlackElo "1101"]
+[Annotator "Tactical Analysis 2.10 (3s)"]
+[PlyCount "67"]
+[EventDate "2018.??.??"]
+
+{[%evp 14,66,0,-1,15,-44,-19,-111,-111,-111,-123,-445,-10,-10,200,186,226,226,
+240,239,243,242,29995,29996,29996,29992,29992,177,650,159,634,97,97,0,0,0,0,
+-44,269,0,595,595,595,284,284,100,100,100,29994,216,29998,29998,29998,29999,
+29999]} 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. h3 h6 7. Nd5 O-O
+8. O-O Bd7 9. g4 (9. c3 $11) 9... Nd4 10. g5 (10. Nxd4 $11 {keeps the balance.}
+Nxd5 11. Nb3) 10... Nxd5 $17 {Black is better.} 11. Bxd5 Bxh3 {White must now
+prevent ...Bh3-g4.} 12. Re1 $2 {[%mdl 8192]} (12. Nxd4 $17 Bxd4 13. c3 Bxf1 14.
+cxd4) 12... Nxf3+ $2 ({Black should play} 12... Bg4 $19 13. Re3 Qc8) 13. Qxf3
+$11 Bb4 $2 (13... Qd7 $11 {and Black stays safe.}) 14. c3 $18 (14. gxh6 Bxe1
+15. hxg7 Qh4 $15) 14... Be6 15. gxh6 Bxd5 16. exd5 Bc5 17. hxg7 Kxg7 $2 (17...
+Re8 $18 18. Qh3 f5 19. Qh8+ Kf7 20. Qh5+ Kg8) 18. Qg3+ Kh8 19. Qh3+ Kg8 20. Qh6
+$2 (20. Qg4+ Kh8 21. Qh3+ Kg8 22. Qg3+ Kh7 23. Kg2 Qh4 24. Qxh4+ Kg7 25. Qg5+
+Kh8 26. Rh1#) 20... f5 $2 (20... a6 21. Bg5 Bxf2+ 22. Kxf2 Qd7 23. Rg1 Qf5+ 24.
+Bf4+ Qg6 25. Rxg6+ fxg6 26. Qxg6+ Kh8 27. Rh1#) 21. Bg5 $2 (21. Qg6+ $18 {
+and the rest is easy.} Kh8 22. Kg2 Qh4 23. Rh1 Qxh1+ 24. Kxh1 f4 25. Qh6+ Kg8
+26. Be3 $1 {[%mdl 512]}) 21... Qe8 $2 (21... Qd7 $16) 22. Rad1 $2 (22. Bf6 Rxf6
+23. Qxf6 Qf7 $18) (22. Kh1 $18 {is the precise move to win. Intending Re1-g1
+and mate.} Qa4 23. Qg6+ Kh8 24. Bf6+ Rxf6 25. Qxf6+ Kh7 26. Rg1 Qg4 27. Rxg4)
+22... Rf7 $16 {Threatens to win with ...Rf7-h7.} 23. d4 $40 {[%mdl 128] Black
+needs to defend precisely.} (23. Bf6 $16 {[%csl Gf6][%cal Rh6h8]} Rh7 24. Qg5+
+Kf8 25. d4 (25. Qxf5 Qf7 $11)) 23... Rh7 $11 24. Qf6 Qh5 {[%csl Gh7][%cal
+Rh5h1]} 25. Kf1 Qf3 $2 {[%mdl 8192]} (25... exd4 $15 {keeps the upper hand.}
+26. Qe6+ Qf7) 26. Qe6+ $2 ({White has to play} 26. Qg6+ $18 Rg7 27. Qe6+ Kh7
+28. Qh6+ Kg8 29. dxc5) 26... Kh8 $2 {[%mdl 8192]} (26... Kg7 $11 27. Qf6+ Kg8
+28. Qg6+ Rg7 29. Qe6+ Kh7 30. Qh6+ Kg8 31. dxc5 Qg4 32. Qe6+ (32. cxd6 Rxg5 33.
+Qe6+ Kh7 $16) 32... Kh7) 27. Bf6+ $18 Rg7 28. Bxg7+ (28. dxc5 $142 Rf8 29.
+Bxg7+ Kxg7 30. cxd6 cxd6 31. Qxd6) 28... Kxg7 29. Re3 $2 ({But not} 29. dxc5 $2
+Rh8 $19) (29. Qe7+ $18 {and White stays clearly on top.} Kg6 30. Qh4 (30. dxc5
+$2 Rh8 $19)) 29... Qxd1+ $16 {[#]} 30. Kg2 $1 exd4 $2 {[%mdl 8192] [#]} (30...
+f4 $16 31. Rh3 Qb1 32. Qe7+ Kg8) 31. Rg3+ $2 (31. Qe7+ $1 {mates} Kg8 32. Qg5+
+Kf8 33. Qxf5+ Kg7 34. Rg3+ Qg4 35. Rxg4+ Kh8 36. Qh5#) 31... Kh7 $2 (31... Qg4
+$18 32. Rxg4+ fxg4 33. Qxg4+ Kf7) 32. Qxf5+ {White mates.} Kh8 33. Qh3+ Qh5 34.
+Qxh5# {Accuracy: White = 24%, Black = 13%.} 1-0
+
